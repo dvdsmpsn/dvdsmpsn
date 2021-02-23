@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [David Simpson Apps](https://dsapps.cloud/)
-- 💬 Ask me about Atlassian cloud apps & extensions
-- 📫 How to reach me: hello@dsapps.dev
+- 🔭  I’m currently working on [David Simpson Apps](https://dsapps.cloud/)
+- 💬  Ask me about Atlassian cloud apps & extensions
+- 📫  How to reach me: hello@dsapps.dev
 
 <!--
 **dvdsmpsn/dvdsmpsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
