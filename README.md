@@ -2,7 +2,7 @@
 
 I’m currently working on...
 
-## [David Simpson Apps](https://www.dsapps.dev/). 
+## <a href="https://www.dsapps.dev/">David Simpson Apps</a>
  
 Some of [our products](https://www.dsapps.dev/products/):
 ### For Atlassian...
