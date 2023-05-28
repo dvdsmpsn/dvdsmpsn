@@ -13,7 +13,7 @@ Some of [our products](https://www.dsapps.dev/products/):
 - [Looker in Confluence](https://www.dsapps.dev/products/looker-in-confluence/)
 - [Chemistry Toolkit for Confluence](https://www.dsapps.dev/products/chemistry-toolkit-for-confluence/)
 ###  For monday.com...
-- [Microsoft 365 Office Embedded in monday.com]()
+- [Microsoft 365 Office Embedded in monday.com](https://dsapps.dev/products/microsoft-365-office-embedded/)
 - [Google Forms Embedded in monday.com](https://www.dsapps.dev/products/google-forms-in-monday-dot-com/)
 - [Microsoft 365 Office Embedded in monday.com](https://www.dsapps.dev/products/microsoft-365-office-embedded/)
 - [Microsoft Power BI Embedded in monday.com](https://www.dsapps.dev/products/microsoft-power-bi-in-monday-dot-com/)
