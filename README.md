@@ -14,7 +14,7 @@ Some of [our products](https://www.dsapps.dev/products/):
 - [Google Analaytics in Confluence](https://www.dsapps.dev/products/google-analytics-in-confluence/)
 - [Google Analytics in Jira](https://www.dsapps.dev/products/google-analytics-in-jira/)
 - [BI Dashboards in Confluence – Embedded Analytics made easy](https://www.dsapps.dev/products/bi-dashboards-in-confluence/)
-- [Looker Data Studio in Confluence – Google Data Studio](https://www.dsapps.dev/products/looker-studio-in-confluence/)
+- [Looker Studio in Confluence – Google Data Studio](https://www.dsapps.dev/products/looker-studio-in-confluence/)
 - [Looker in Confluence](https://www.dsapps.dev/products/looker-in-confluence/)
 
 
